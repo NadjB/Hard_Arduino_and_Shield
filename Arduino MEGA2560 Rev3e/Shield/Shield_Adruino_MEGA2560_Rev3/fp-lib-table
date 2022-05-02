@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MEGA2560_Rev3e")(type "KiCad")(uri "$(KIPRJMOD)/Shield_Adruino_MEGA2560_Rev3.pretty")(options "")(descr ""))
+)
