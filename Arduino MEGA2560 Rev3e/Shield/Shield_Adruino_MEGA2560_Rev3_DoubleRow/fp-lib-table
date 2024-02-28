@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MEGA2560_Rev3e")(type "KiCad")(uri "$(KIPRJMOD)/Shield_Adruino_MEGA2560_Rev3_DoubleRow.pretty")(options "")(descr "")(disabled))
+  (lib (name "DoubleRows")(type "KiCad")(uri "$(KIPRJMOD)/DoubleRows.pretty")(options "")(descr ""))
+)
